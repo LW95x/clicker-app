@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clicker-app/static/css/main.af717132.css",
+    "main.js": "/clicker-app/static/js/main.2baebe9a.js",
+    "static/js/453.3838d84a.chunk.js": "/clicker-app/static/js/453.3838d84a.chunk.js",
+    "index.html": "/clicker-app/index.html",
+    "main.af717132.css.map": "/clicker-app/static/css/main.af717132.css.map",
+    "main.2baebe9a.js.map": "/clicker-app/static/js/main.2baebe9a.js.map",
+    "453.3838d84a.chunk.js.map": "/clicker-app/static/js/453.3838d84a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af717132.css",
+    "static/js/main.2baebe9a.js"
+  ]
+}
