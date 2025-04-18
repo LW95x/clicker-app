@@ -1,7 +1,6 @@
 import "./tailwind.css";
 import "./App.css";
 import React, { useEffect, useState } from "react";
-import { networkInterfaces } from "os";
 
 function App() {
   const [isPaused, setIsPaused] = useState(false);
